@@ -1,0 +1,12 @@
+[package]
+name = "fractal-trick"
+version = "0.1.0"
+authors = ["Daniil Rose <daniil.rose@posteo.org>"]
+edition = "2021"
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+extism-pdk = "0.3.4"
