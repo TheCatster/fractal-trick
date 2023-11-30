@@ -10,3 +10,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 extism-pdk = "0.3.4"
+lazy_static = "1.4.0"
+colorsys = "0.6.7"
